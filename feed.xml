@@ -3,7 +3,7 @@
     <title>JavaScript</title>
     <link href="https://github.com/KenDarkmode/myblog1.git/feed.xml" rel="self" />
     <link href="https://github.com/KenDarkmode/myblog1.git" />
-    <updated>2024-12-27T12:19:57+07:00</updated>
+    <updated>2024-12-27T13:33:16+07:00</updated>
     <author>
         <name>Nguyen Anh Kiet</name>
     </author>
@@ -339,18 +339,19 @@
 <p><img loading="lazy" src="https://www.shutterstock.com/image-vector/business-man-lots-question-bubbles-600nw-593855477.jpg" alt="9,288 Confused Person Sketch Royalty-Free Photos and Stock Images |  Shutterstock" data-is-external-image="true"></p>
 <h4> </h4>
 <h4>1. Đa Nền Tảng – Viết Một Lần, Chạy Mọi Nơi!</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog1.git/media/posts/1/idea-mew.png" alt="" width="527" height="316" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-xs.png 640w ,https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-sm.png 768w ,https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-md.png 1024w ,https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-lg.png 1366w ,https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-xl.png 1600w ,https://github.com/KenDarkmode/myblog1.git/media/posts/1/responsive/idea-mew-2xl.png 1920w"></figure>
 <p>Điều đặc biệt nhất khi nhắc đến Java chính là khả năng đa nền tảng (cross-platform). Thử nghĩ mà xem, bạn viết code một lần, và nó có thể chạy trên bất kỳ hệ điều hành nào từ Windows, Mac đến Linux mà không cần chỉnh sửa gì cả. Nhờ vào Java Virtual Machine (JVM) thần thánh, ứng dụng của bạn chỉ cần “một lần làm là xong”. Thật tuyệt phải không? </p>
 <p> </p>
 <h4>2. Quản Lý Bộ Nhớ Tự Động – Bạn Thảnh Thơi Code, Java Lo Phần Còn Lại!</h4>
-<p> </p>
+<p><img loading="lazy" src="https://www.shutterstock.com/image-vector/waiter-dressed-tuxedo-serving-dish-600nw-663844405.jpg" alt="2,389 Cartoon Butler Stock Vectors and Vector Art | Shutterstock" data-is-external-image="true"></p>
 <p>Java có tính năng quản lý bộ nhớ tự động – điều này có nghĩa là nó sẽ tự động “dọn dẹp” bộ nhớ không cần thiết giúp bạn. Bạn có thể tập trung sáng tạo ra những ứng dụng hay ho mà chẳng cần lo lắng về việc mất bộ nhớ nữa. Chính xác là như có một trợ lý mãi bên cạnh bạn vậy! 🎉</p>
 <p> </p>
 <h4>3. Bảo Mật Cao – Đừng Lo Về Những Kẻ “Xâm Nhập”!</h4>
-<p> </p>
+<p><img loading="lazy" src="https://media.istockphoto.com/id/174812474/photo/police-chief-officer-holding-gun-triggered-while-at-desk.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=gHKYTVPmvaQCNMw-ubA22bHMJvO5zWxdtPRYo9HvXF4=" alt="980+ Funny Security Guard Stock Photos, Pictures &amp; Royalty-Free Images -  iStock" data-is-external-image="true"></p>
 <p>Chắc chắn rằng bạn không muốn phần mềm của mình bị lỗ hổng bảo mật, đúng không? Đừng lo, Java cực kỳ chú trọng đến bảo mật. Nhờ các tính năng kiểm tra lỗi chặt chẽ, bạn có thể yên tâm rằng các ứng dụng của mình luôn an toàn, tránh được các mối nguy hại từ mã độc. </p>
 <p> </p>
 <h4>4. Đa Luồng – Chạy Nhanh Như Chớp!</h4>
-<p> </p>
+<p><img loading="lazy" src="https://cdn.pixabay.com/photo/2020/01/31/14/21/funny-4808203_960_720.jpg" alt="Download Funny, Running, Panic. Royalty-Free Stock Illustration Image -  Pixabay" data-is-external-image="true"></p>
 <p>Công việc của bạn có bao giờ yêu cầu xử lý cùng lúc nhiều tác vụ? Với Java, đó không phải là vấn đề! Hỗ trợ đa luồng giúp bạn thực hiện nhiều tác vụ cùng lúc mà không làm giảm hiệu suất. Càng làm việc nhanh, bạn càng tiến gần hơn đến những dự án “khủng”! </p>
 <p> </p>
 <h3>Cùng Nhận Xét Về Ưu Điểm và Nhược Điểm Của Java</h3>
