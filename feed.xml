@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>JavaScript</title>
+    <link href="https://github.com/KenDarkmode/myblog1.git/feed.xml" rel="self" />
+    <link href="https://github.com/KenDarkmode/myblog1.git" />
+    <updated>2024-12-27T12:19:57+07:00</updated>
+    <author>
+        <name>Nguyen Anh Kiet</name>
+    </author>
+    <id>https://github.com/KenDarkmode/myblog1.git</id>
+
+    <entry>
+        <title>Tôi đã học java như thế nào?</title>
+        <author>
+            <name>Nguyen Anh Kiet</name>
+        </author>
+        <link href="https://github.com/KenDarkmode/myblog1.git/toi-da-hoc-java-nhu-the-nao.html"/>
+        <id>https://github.com/KenDarkmode/myblog1.git/toi-da-hoc-java-nhu-the-nao.html</id>
+
+        <updated>2024-12-26T13:42:13+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Chia Sẻ Quá Trình Học Java Của Mình Học Java là một hành trình đầy thử thách nhưng cũng vô cùng thú vị. Mình bắt đầu học Java từ những kiến thức cơ bản nhất, như cấu trúc dữ liệu, cú pháp ngôn ngữ, và&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Chia Sẻ Quá Trình Học Java Của Mình</strong></p>
+<p><img loading="lazy" src="https://might-could.com/wp-content/uploads/2013/05/Sharing-your-process-800.jpg" alt="Share the Process – Might Could Studios" data-is-external-image="true"></p>
+<p>Học Java là một hành trình đầy thử thách nhưng cũng vô cùng thú vị. Mình bắt đầu học Java từ những kiến thức cơ bản nhất, như cấu trúc dữ liệu, cú pháp ngôn ngữ, và khái niệm lập trình hướng đối tượng. Việc hiểu được cách làm việc của các lớp, đối tượng, và các phương thức trong Java đã mở ra cho mình một cách nhìn mới về lập trình.</p>
+<p>Không chỉ học lý thuyết, mình cũng thực hành rất nhiều qua các bài tập và dự án nhỏ. Những thử thách này giúp mình áp dụng những gì đã học vào thực tế và giải quyết các vấn đề cụ thể, từ việc xây dựng các chương trình đơn giản đến việc phát triển các ứng dụng có tính năng phức tạp hơn.</p>
+<p>Trong quá trình học, mình cũng tham gia vào các nhóm học tập, chia sẻ kinh nghiệm và giải đáp thắc mắc cùng các bạn. Đây là một cách tuyệt vời để cải thiện kỹ năng của mình và học hỏi những kỹ thuật mới từ những người khác. Nếu bạn cũng đang trên hành trình học Java, mình tin rằng quá trình học sẽ vừa thử thách vừa thú vị và đem lại nhiều điều bổ ích cho bạn.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bài 4: Lớp và đối tượng trong Java</title>
+        <author>
+            <name>Nguyen Anh Kiet</name>
+        </author>
+        <link href="https://github.com/KenDarkmode/myblog1.git/bai-4-lop-va-doi-tuong-trong-java.html"/>
+        <id>https://github.com/KenDarkmode/myblog1.git/bai-4-lop-va-doi-tuong-trong-java.html</id>
+
+        <updated>2024-12-26T12:59:56+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Trong bài này, chúng ta sẽ tìm hiểu về lớp (class) và đối tượng (object) trong Java. Trong kỹ thuật lập trình hướng đối tượng, chúng ta thiết kế một chương trình bởi sử dụng các lớp và các đối tượng. Object - Đối tượng là&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Trong bài này, chúng ta sẽ tìm hiểu về lớp (class) và đối tượng (object) trong Java. Trong kỹ thuật lập trình hướng đối tượng, chúng ta thiết kế một chương trình bởi sử dụng các lớp và các đối tượng.</p>
+<p><strong>Object -</strong> Đối tượng là thực thể mang tính vật lý cũng như mang tính logic, trong khi lớp chỉ là thực thể logic. Đối tượng có các trạng thái và các hành vi. Ví dụ: Một dog có trạng thái là color, name, breed (dòng dõi) và cũng có các hành vi: Wag (vẫy đuôi), bark (sủa), eat (ăn). Một đối tượng là một instance (ví dụ,trường hợp) của một lớp.</p>
+<p><strong>Class -</strong> Một lớp là một nhóm các đối tượng mà có các thuộc tính chung. Lớp là một Template hoặc bản thiết kế từ đó đối tượng được tạo.</p>
+<p> </p>
+<h2>Đối tượng trong Java</h2>
+<p>Đó là một thực thể có trạng thái và hành vi, ví dụ như bàn, ghế, xe con, mèo, … Nó có thể mang tính vật lý hoặc logic. Ví dụ về logic đó là Banking system.</p>
+<p>Một đối tượng có ba đặc trưng sau:</p>
+<p><strong>Trạng thái</strong>: biểu diễn dữ liệu (giá trị) của một đối tượng.</p>
+<p><strong>Hành vi</strong>: biểu diễn hành vi (tính năng) của một đối tượng như gửi tiền vào, rút tiền ra,</p>
+<p><strong>Nhận diện</strong>: việc nhận diện đối tượng được triển khai thông qua một ID duy nhất. Giá trị của ID là không thể nhìn thấy với người dùng bên ngoài. Nhưng nó được sử dụng nội tại bởi JVM để nhận diện mỗi đối tượng một cách duy nhất.</p>
+<p>Ví dụ: Bút là một đối tượng. Nó có tên là Thiên Long, có màu trắng, … được xem như là trạng thái của nó. Nó được sử dụng để viết, do đó viết là hành vi của nó.</p>
+<p>Đối tượng là sự thể hiện (Instance) của một lớp. Lớp là một Template hoặc bản thiết kế từ đó đối tượng được tạo. Vì thế đối tượng là Instance (kết quả) của một lớp.</p>
+<h2>Lớp trong Java</h2>
+<p>Một lớp là một nhóm các đối tượng mà có các thuộc tính chung. Lớp là một Template hoặc bản thiết kế từ đó đối tượng được tạo. Một lớp trong Java có thể bao gồm:</p>
+<p>Thành viên dữ liệu</p>
+<p>Phương thức</p>
+<p>Constructor</p>
+<p>Block</p>
+<p>Lớp và Interface</p>
+<h3>Cú pháp để khai báo một lớp</h3>
+<p><code>class TenLop {  <br>    // Các thành viên dữ liệu<br>    thanhVienDuLieu;  <br>    <br>    // Các phương thức<br>    phuongThuc;  <br>}<br></code></p>
+<h2>Ví dụ đơn giản về Lớp và Đối tượng trong Java</h2>
+<p>Trong ví dụ này, chúng ta tạo một lớp Student có hai thành viên dữ liệu là id và name. Chúng ta đang tạo đối tượng của lớp Student bởi từ khóa new và in giá trị đối tượng.</p>
+<p><code>class Student1 {  <br>    int id; // thành viên dữ liệu (cũng là biến instance)  <br>    String name; // thành viên dữ liệu (cũng là biến instance)  <br>  <br>    public static void main(String[] args) {  <br>        Student1 s1 = new Student1(); // tạo một đối tượng Student  <br>        System.out.println(s1.id);  <br>        System.out.println(s1.name);  <br>    }  <br>}<br></code></p>
+<p>Một lớp có thể chứa bất kỳ loại biến sau:</p>
+<p><strong>Biến Local: </strong>Các biến được định nghĩa bên trong các phương thức, constructor hoặc block code được gọi là biến Local. Biến này sẽ được khai báo và khởi tạo bên trong phương thức và biến này sẽ bị hủy khi phương thức đã hoàn thành.</p>
+<p><strong>Biến Instance: </strong>Các biến instance là các biến trong một lớp nhưng ở bên ngoài bất kỳ phương thức nào. Những biến này được khởi tạo khi lớp này được tải. Các biến instance có thể được truy cập từ bên trong bất kỳ phương thức, constructor hoặc khối nào của lớp cụ thể đó.</p>
+<p><strong>Biến Class: </strong>Các biến class là các biến được khai báo với một lớp, bên ngoài bất kỳ phương thức nào, với từ khóa static.</p>
+<p> </p>
+<h2>Phương thức trong Java</h2>
+<p>Trong Java, một phương thức là khá giống hàm, được sử dụng để trưng bày hành vi của một đối tượng. Phương thức giúp code tăng tính tái sử dụng và tối ưu hóa code.</p>
+<p>Từ khóa new được sử dụng để cấp phát bộ nhớ tại runtime.</p>
+<h2>Constructor trong Java:</h2>
+<p>Khi bàn luận về các lớp, một trong những chủ đề quan trọng là các constructor. Mỗi lớp có một constructor. Nếu chúng ta không viết một constructor một cách rõ ràng cho một lớp thì bộ biên dịch Java xây dựng một constructor mặc định cho lớp đó.</p>
+<p>Mỗi khi một đối tượng mới được tạo ra, ít nhất một constructor sẽ được gọi. Quy tắc chính của các constructor là chúng có cùng tên như lớp đó. Một lớp có thể có nhiều hơn một constructor.</p>
+<p>Sau đây là ví dụ về một constructor:</p>
+<p><code>public class Xecon {</code><br><code>   </code><br><code>   // Constructor không có tham số</code><br><code>   public Xecon() {</code><br><code>   }</code><br><br><code>   // Constructor có một tham số là tên</code><br><code>   public Xecon(String ten) {</code><br><code>      // Constructor này nhận một tham số tên</code><br><code>   }</code><br><code>}</code></p>
+<p>Java cũng hỗ trợ <a href="https://vietjack.com/java/lop_singleton_trong_java.jsp">Lớp Singleton trong Java</a>, ở đây bạn sẽ có thể tạo chỉ một instance của một lớp.</p>
+<h2>Tạo một đối tượng trong Java:</h2>
+<p>Như đã đề cập trước đó, một lớp cung cấp bản thiết kế cho các đối tượng. Vì thế, về cơ bản, một đối tượng được tạo từ một lớp. Trong Java, từ khóa new được sử dụng để tạo một đối tượng mới.</p>
+<p>Có ba bước khi tạo một đối tượng từ một lớp:</p>
+<p><strong>Khai báo: </strong>Một khai báo biến với một tên biến với một loại đối tượng.</p>
+<p><strong>Cài đặt: </strong>Từ khóa new được sử dụng để tạo đối tượng</p>
+<p><strong>Khởi tạo: </strong>Từ khóa new được theo sau bởi một lời gọi một constructor. Gọi hàm này khởi tạo đối tượng mới.</p>
+<p>Dưới đây là ví dụ về tạo một đối tượng:</p>
+<p><code>public class Xecon {<br><br>   // Constructor có một tham số là tên<br>   public Xecon(String ten) {<br>      // In tên xe ra màn hình<br>      System.out.println("Ten xe la : " + ten); <br>   }<br><br>   public static void main(String[] args) {<br>      // Lệnh sau sẽ tạo một đối tượng với tên là "Toyota"<br>      Xecon Xecuatoi = new Xecon("Toyota");<br>   }<br>}</code></p>
+<p><code></code>Nếu chúng ta biên dịch và chạy chương trình, nó sẽ cho kết quả sau:</p>
+<p><code>Ten xe la : Toyota<br></code></p>
+<h2>Truy cập các biến instance và các phương thức trong Java</h2>
+<p>Các biến instance và các phương thức được truy cập thông qua các đối tượng được tạo. Để truy cập một biến instance, path sẽ là như sau:</p>
+<p><code>/* Dau tien, ban tao mot doi tuong */</code><br><code>Doituongthamchieu = new Constructor();</code><br><br><code>/* Sau do ban goi mot bien nhu sau */</code><br><code>Doituongthamchieu.TenBien;</code><br><br><code>/* Bay gio ban co the goi mot phuong thuc lop nhu sau */</code><br><code>Doituongthamchieu.TenPhuongThuc();</code></p>
+<h2>Ví dụ:</h2>
+<p>Ví dụ này giải thích cách để truy cập các biến instance và các phương thức của một lớp:</p>
+<p><code>public class Xecon {<br>   <br>   int Giaxe;<br><br>   public Xecon(String ten) {<br>      // Constructor này có một tham số là ten.<br>      System.out.println("Ten xe la :" + ten); <br>   }<br><br>   public void setGia(int gia) {<br>       Giaxe = gia;<br>   }<br><br>   public int getGia() {<br>       System.out.println("Gia mua xe la :" + Giaxe); <br>       return Giaxe;<br>   }<br><br>   public static void main(String[] args) {<br>      /* Tao doi tuong */<br>      Xecon Xecuatoi = new Xecon("Toyota");<br><br>      /* Goi mot phuong thuc lop de thiet lap gia xe */<br>      Xecuatoi.setGia(1000000000);<br><br>      /* Goi mot phuong thuc lop khac de lay gia xe */<br>      Xecuatoi.getGia();<br><br>      /* Ban cung co the truy cap bien instance nhu sau */<br>      System.out.println("Gia tri bien :" + Xecuatoi.Giaxe); <br>   }<br>}<br></code>Biên dịch và thực thi chương trình sẽ cho kết quả sau:</p>
+<p><code>Ten xe la :Toyota<br>Gia mua xe la :1000000000<br>Gia tri bien :1000000000<br></code></p>
+<h3>Ví dụ đối tượng và lớp mà duy trì bản ghi các sinh viên</h3>
+<p>Trong ví dụ này, chúng ta tạo hai đối tượng của lớp Student và khởi tạo giá trị của các đối tượng này bằng việc triệu hồi phương thức insertRecord trên nó. Ở đây, chúng ta đang hiển thị trạng thái (dữ liệu) của các đối tượng bằng việc triệu hồi phương thức displayInformation.</p>
+<p><code>class Student2 {  <br>    int rollno;  <br>    String name;  <br>  <br>    void insertRecord(int r, String n) {  // phương thức  <br>        rollno = r;  <br>        name = n;  <br>    }  <br>  <br>    void displayInformation() {  <br>        System.out.println(rollno + " " + name);  // phương thức  <br>    }  <br>  <br>    public static void main(String args[]) {  <br>        Student2 s1 = new Student2();  <br>        Student2 s2 = new Student2();  <br>  <br>        s1.insertRecord(111, "HoangThanh");  <br>        s2.insertRecord(222, "ThanhHuong");  <br>  <br>        s1.displayInformation();  <br>        s2.displayInformation();  <br>    }  <br>}<br></code></p>
+<h3>Tạo nhiều đối tượng bởi chỉ một kiểu</h3>
+<p>Chúng ta có thể tạo nhiều đối tượng bởi chỉ một kiểu như khi chúng ta thực hiện trong các kiểu gốc. Ví dụ:</p>
+<p><code>Rectangle r1 = new Rectangle(), r2 = new Rectangle(); //Tạo hai đối tượng</code></p>
+<p><strong>Ví dụ:</strong></p>
+<p><code>class Rectangle {  <br>    int length;  <br>    int width;  <br>  <br>    void insert(int l, int w) {  <br>        length = l;  <br>        width = w;  <br>    }  <br>  <br>    void calculateArea() {  <br>        System.out.println(length * width);  <br>    }  <br>  <br>    public static void main(String args[]) {  <br>        Rectangle r1 = new Rectangle(), r2 = new Rectangle(); // Tạo hai đối tượng  <br><br>        r1.insert(11, 5);  <br>        r2.insert(3, 15);  <br><br>        r1.calculateArea();  <br>        r2.calculateArea();  <br>    }  <br>}</code></p>
+<p>Kết quả:</p>
+<p><code>output:55</code><br><code>       45</code></p>
+<p>  </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bài 3: Cấu trúc điều kiện và vòng lặp</title>
+        <author>
+            <name>Nguyen Anh Kiet</name>
+        </author>
+        <link href="https://github.com/KenDarkmode/myblog1.git/bai-3-cau-truc-dieu-kien-va-vong-lap.html"/>
+        <id>https://github.com/KenDarkmode/myblog1.git/bai-3-cau-truc-dieu-kien-va-vong-lap.html</id>
+
+        <updated>2024-12-26T10:54:43+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Phần 1: Cấu trúc điều kiện – Đưa ra những lựa chọn Bạn đã bao giờ đứng trước một loạt lựa chọn và không biết chọn đường nào chưa? Java cũng thế! Nhưng nhờ có các câu lệnh điều kiện, Java biết cách đưa ra&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>Phần 1: Cấu trúc điều kiện – Đưa ra những lựa chọn</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://static.vecteezy.com/system/resources/previews/028/336/476/non_2x/trendy-choose-option-vector.jpg" alt="Trendy Choose Option 28336476 Vector Art at Vecteezy" width="541" height="541" data-is-external-image="true"></figure>
+<p>Bạn đã bao giờ đứng trước một loạt lựa chọn và không biết chọn đường nào chưa? Java cũng thế! Nhưng nhờ có các <strong>câu lệnh điều kiện</strong>, Java biết cách đưa ra quyết định nhanh như chớp!</p>
+<h4><strong>If - Else</strong>: Câu chuyện của điều kiện</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog1.git/media/posts/3/idea-mew-2.png" alt="" width="558" height="252" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-xs.png 640w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-sm.png 768w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-md.png 1024w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-lg.png 1366w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-xl.png 1600w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/idea-mew-2-2xl.png 1920w"></figure>
+<p>Nếu bạn bảo Java kiểm tra một điều kiện, nó sẽ nghe lời bạn. Nếu đúng, nó thực hiện một hành động, còn nếu không, nó đi hướng khác.</p>
+<p>Code ví dụ cho bạn:</p>
+<p class="msg msg--highlight "><code>public class Main {<br>    public static void main(String[] args) {<br>        int weather = 25; // Nhiệt độ hiện tại<br><br>        if (weather &gt; 30) {<br>            System.out.println("Hôm nay nóng lắm! Đi bơi thôi!");<br>        } else {<br>            System.out.println("Thời tiết mát mẻ, ra ngoài picnic đi!");<br>        }<br>    }<br>}</code></p>
+<p class="msg msg--highlight ">Khi chạy, Java như một người bạn tri kỷ biết khuyên bạn nên đi đâu mỗi ngày! </p>
+<h4><strong>Switch-Case</strong>: Khi mọi thứ đã được định trước</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog1.git/media/posts/3/plan.png" alt="" width="1455" height="632" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-xs.png 640w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-sm.png 768w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-md.png 1024w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-lg.png 1366w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-xl.png 1600w ,https://github.com/KenDarkmode/myblog1.git/media/posts/3/responsive/plan-2xl.png 1920w"></figure>
+<p>Bạn có một danh sách dài các lựa chọn? <strong>Switch-Case</strong> là cỗ máy thời gian đưa chương trình của bạn đến <strong>đúng nơi nó cần đến</strong>.</p>
+<p>Đây là code cho bạn hình dung:</p>
+<p class="msg msg--highlight "><code>public class Main {<br>    public static void main(String[] args) {<br>        String day = "Monday";<br><br>        switch (day) {<br>            case "Monday":<br>                System.out.println("Bắt đầu tuần mới với cafe!");<br>                break;<br>            case "Friday":<br>                System.out.println("Thứ Sáu rồi, hết tuần thôi nào!");<br>                break;<br>            default:<br>                System.out.println("Một ngày bình thường thôi mà!");<br>        }<br>    }<br>}<br></code></p>
+<p class="msg msg--highlight "><strong>Bạn biết không?</strong> <code>Switch-Case</code> cực kỳ gọn gàng để xử lý các lựa chọn phức tạp mà không phải viết quá nhiều câu lệnh <strong>if-else</strong>.</p>
+<h3>Phần 2: Vòng lặp – Điểm danh, kiểm tra và... lặp đi lặp lại!</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.redd.it/65jxyoe4ox701.jpg" alt="Back to work loop : r/funny" width="498" height="498" data-is-external-image="true"></figure>
+<p>Java rất siêng năng và thích làm việc theo chu kỳ, nên vòng lặp là "hộp công cụ" số một để Java làm việc hiệu quả. </p>
+<h4><strong>For Loop</strong> – Khi bạn muốn kiểm soát mọi thứ</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://thrivingmindseducation.com/cdn/shop/files/Screenshot2024-07-19at6.12.40pm.png?v=1721384036" alt="Everything is under Ctrl'' Pin – Thriving Minds Education" width="430" height="436" data-is-external-image="true"></figure>
+<p>Bạn có một danh sách các việc cần làm và muốn kiểm tra từng cái một? <strong>For Loop</strong> là trợ thủ đắc lực của bạn!</p>
+<p>Đây là code giúp bạn có thể hiểu qua:</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        for (int i = 1; i &lt;= 5; i++) {</code><br><code>            System.out.println("Đếm thử: " + i);</code><br><code>        }</code><br><code>        System.out.println("Vòng lặp đã hoàn thành!");</code><br><code>    }</code><br><code>}</code></p>
+<p class="msg msg--highlight ">Trong vòng lặp trên, Java sẽ tự động <strong>đếm số</strong>, bạn chẳng cần bận tâm đến từng bước nhỏ nữa.</p>
+<h4><strong>While Loop</strong> – Khi công việc chưa xong, hãy tiếp tục!</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.photolibrary.jp/mhd3/img515/450-20170303164035109852.jpg" alt="ビジネスイメージ―継続か断念か 写真素材 [ 4922849 ] - フォトライブラリー photolibrary" width="494" height="329" data-is-external-image="true"></figure>
+<p> </p>
+<p>Bạn cứ làm việc cho đến khi công việc hoàn thành, đó là phong cách của <code>while</code>. Đây là cách nó giúp bạn:</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        int countdown = 5;</code><br><br><code>        while (countdown &gt; 0) {</code><br><code>            System.out.println("Đếm ngược: " + countdown);</code><br><code>            countdown--; // Giảm dần</code><br><code>        }</code><br><code>        System.out.println("Chúc mừng năm mới!");</code><br><code>    }</code><br><code>}</code></p>
+<p class="msg msg--highlight ">Rất lý tưởng khi làm việc với các trường hợp cần <strong>đếm thời gian chờ</strong> hoặc thực hiện một công việc cụ thể!</p>
+<h4><strong>Do-While Loop</strong> – Đừng bao giờ bỏ qua cơ hội đầu tiên!</h4>
+<p><img loading="lazy" src="https://www.azquotes.com/picture-quotes/quote-never-neglect-an-opportunity-for-improvement-william-jones-130-80-75.jpg" alt="William Jones quote: Never neglect an opportunity for improvement." data-is-external-image="true"></p>
+<p>Không như <code>while</code>, vòng lặp <code>do-while</code> luôn <strong>chắc chắn thực hiện ít nhất một lần</strong>, bất kể điều kiện ra sao. Đó là tinh thần sống không bỏ lỡ cơ hội nào.</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        int i = 1;</code><br><br><code>        do {</code><br><code>            System.out.println("Bạn có chắc mình đã học xong chưa? Đây là lần " + i);</code><br><code>            i++;</code><br><code>        } while (i &lt;= 3);</code><br><code>        System.out.println("Vậy là bạn đã học xong 3 vòng lặp!");</code><br><code>    }</code><br><code>}</code></p>
+<p class="msg msg--highlight ">Chúng ta luôn nên thử ít nhất một lần trước khi từ bỏ, đúng không? </p>
+<h4>Tập hợp khả năng điều kiện và vòng lặp! </h4>
+<p>Điều gì sẽ xảy ra nếu bạn kết hợp <strong>if-else</strong> và <strong>vòng lặp</strong>? Một chương trình thông minh không giới hạn. Xem nhé:</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        for (int i = 1; i &lt;= 10; i++) {</code><br><code>            if (i % 2 == 0) {</code><br><code>                System.out.println(i + " là số chẵn");</code><br><code>            } else {</code><br><code>                System.out.println(i + " là số lẻ");</code><br><code>            }</code><br><code>        }</code><br><code>    }</code><br><code>}</code></p>
+<p class="msg msg--highlight ">Java như giáo viên toán "hậu cần", kiểm tra từng số từ 1 đến 10, xác định chẵn hay lẻ. Thật thông minh!</p>
+<h3><strong>Tóm lại</strong></h3>
+<p>Cấu trúc điều kiện và vòng lặp không chỉ giúp Java xử lý các bài toán linh hoạt, mà còn làm cho chương trình của bạn trở nên <strong>động</strong> và <strong>thông minh</strong> hơn. Điều kiện như não bộ đưa ra quyết định, còn vòng lặp là cơ bắp để hoàn thành công việc lặp đi lặp lại một cách kiên trì.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bài 2: Các kiểu dữ liệu trong Java</title>
+        <author>
+            <name>Nguyen Anh Kiet</name>
+        </author>
+        <link href="https://github.com/KenDarkmode/myblog1.git/bai-2-cac-kieu-du-lieu-trong-java.html"/>
+        <id>https://github.com/KenDarkmode/myblog1.git/bai-2-cac-kieu-du-lieu-trong-java.html</id>
+
+        <updated>2024-12-26T10:53:34+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Chắc hẳn bạn cũng biết, khi lập trình bằng Java, một trong những yếu tố quan trọng là hiểu rõ về các kiểu dữ liệu. Hãy tưởng tượng các kiểu dữ liệu trong Java như một loạt các hộp với các kích thước và hình&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://img.freepik.com/free-vector/businessman-get-idea_1133-350.jpg" alt="Idea Images - Free Download on Freepik" width="602" height="602" data-is-external-image="true"></figure>
+<p> </p>
+<p>Chắc hẳn bạn cũng biết, khi lập trình bằng Java, một trong những yếu tố quan trọng là hiểu rõ về các kiểu dữ liệu. Hãy tưởng tượng các kiểu dữ liệu trong Java như một loạt các hộp với các kích thước và hình dạng khác nhau, giúp bạn lưu trữ mọi giá trị trong chương trình. Giờ đây, chúng ta sẽ cùng khám phá một cách dễ hiểu và vui vẻ về chúng nhé!</p>
+<h1>Kiểu dữ liệu trong Java</h1>
+<p><img loading="lazy" src="https://media.geeksforgeeks.org/wp-content/uploads/20240809125618/Java-Data-Types.png" alt="Java Data Types - GeeksforGeeks" data-is-external-image="true"></p>
+<p>Biến trên thực tế là bộ nhớ để lưu một giá trị nào đó. Khi khai báo biến tức là ta đang khai báo với hệ thống dành riêng không gian trong bộ nhớ. Dựa trên kiểu dữ liệu của một biến, hệ điều hành cấp phát bộ nhớ và quyết định cái gì có thể được lưu giữ trong bộ nhớ dành riêng đó.</p>
+<p>Trong Java có 2 kiểu dữ liệu có sẵn: Primitive (kiểu dữ liệu gốc) và Non-primitive (kiểu dữ liệu đối tượng)</p>
+<p>Trước khi đi vào giới thiệu chi tiết về từng kiểu dữ liệu, bạn có thể theo dõi bảng tóm tắt sau:</p>
+<table>
+<tbody>
+<tr>
+<th>Kiểu dữ liệu</th>
+<th>Giá trị mặc định</th>
+<th>Kích cỡ mặc định</th>
+</tr>
+<tr>
+<td>boolean</td>
+<td>false</td>
+<td>1 bit</td>
+</tr>
+<tr>
+<td>char</td>
+<td>'\u0000'</td>
+<td>2 byte</td>
+</tr>
+<tr>
+<td>byte</td>
+<td>0</td>
+<td>1 byte</td>
+</tr>
+<tr>
+<td>short</td>
+<td>0</td>
+<td>2 byte</td>
+</tr>
+<tr>
+<td>int</td>
+<td>0</td>
+<td>4 byte</td>
+</tr>
+<tr>
+<td>long</td>
+<td>0L</td>
+<td>8 byte</td>
+</tr>
+<tr>
+<td>float</td>
+<td>0.0f</td>
+<td>4 byte</td>
+</tr>
+<tr>
+<td>double</td>
+<td>0.0d</td>
+<td>8 byte</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h3>1. Kiểu dữ liệu Primitive - Những hộp nhỏ nhưng lợi hại!</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://media.istockphoto.com/id/483576367/photo/strength.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=e1BOChNr3KkYy3uRJ1gxVpbnXP3C6EqoPpFYNbJS7ls=" alt="56,300+ Small But Strong Stock Photos, Pictures &amp; Royalty-Free Images -  iStock | Small but powerful, Strength, Small power" width="555" height="417" data-is-external-image="true"></figure>
+<p>Trước tiên, chúng ta có kiểu dữ liệu gốc (Primitive), đây là những kiểu dữ liệu cơ bản mà Java cung cấp sẵn. Chúng giúp tiết kiệm bộ nhớ mà lại cực kỳ nhanh chóng. Đừng lo, chúng sẽ không làm bạn thất vọng đâu!</p>
+<h4>2.Kiểu dữ liệu Boolean – Lựa chọn duy nhất, bạn chỉ có thể chọn true hoặc false (Vâng, như câu chuyện trong tình yêu vậy - không có gì khác ngoài hai lựa chọn!).</h4>
+<p><img loading="lazy" src="https://assets.genially.com/s3fs-public/True%20or%20false%20quizen.png?VersionId=8n146iYtGi0pMPHbrQ44GdzmwesWqBBU" alt="True or false quiz | Genially templates" data-is-external-image="true"></p>
+<p>Với kích thước <strong>1 bit</strong>, kiểu dữ liệu  này giúp bạn quyết định, như trong đoạn mã dưới đây:</p>
+<p> </p>
+<div>
+<div><strong>java code</strong></div>
+<p class="msg msg--highlight " dir="ltr"><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        boolean extractAll = true;</code><br><code>        System.out.println(extractAll ? "Trích xuất thành công!" : "Trích xuất thất bại.");</code><br><code>    }</code><br><code>}</code></p>
+</div>
+<p> </p>
+<h4>3. Kiểu dữ liệu Char – Thích sự đơn giản nhưng đầy mạnh mẽ? char là kiểu dành cho bạn</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://sofontsy.com/cdn/shop/products/funny-banana-fruit-with-strong-arms-and-sunglasses-svg-tribaliumartsf-583701_1024x1024.jpg?v=1697234203" alt="Funny banana fruit with strong arms and sunglasses. Clip Art silhouette  (eps, svg, pdf, png, dxf, jpeg). - So Fontsy" width="600" height="600" data-is-external-image="true"></figure>
+<p><code>char</code> là kiểu dành cho bạn, lưu trữ một ký tự đơn giản như 'A' hay ký tự đặc biệt nào đó, với <strong>2 byte</strong> bộ nhớ.</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        char name = 'A';</code><br><code>        System.out.println("Ký tự: " + name);</code><br><code>    }</code><br><code>}</code><code></code></p>
+<h4>Byte, Short, Int và Long – Lưu trữ các con số, càng lớn càng mạnh mẽ!</h4>
+<figure class="post__image"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog1.git/media/posts/2/Screenshot-2024-12-26-144915.png" alt="" width="742" height="612" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-xs.png 640w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-sm.png 768w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-md.png 1024w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-lg.png 1366w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-xl.png 1600w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-144915-2xl.png 1920w"></figure>
+<ol>
+<li>Byte (1 byte) cho những con số nho nhỏ từ -128 đến 127. Chẳng hạn bạn có thể dùng khi chỉ cần lưu trữ số nhỏ.</li>
+<li>Short (2 byte) thích hợp hơn cho những số nằm trong dải từ -32,768 đến 32,767.</li>
+<li>Int (4 byte) là lựa chọn chính khi làm việc với số nguyên (rộng từ -2,147,483,648 đến 2,147,483,647).</li>
+<li>Long (8 byte) dành cho những con số to lớn, nếu bạn cần vượt qua các giới hạn của int.</li>
+</ol>
+<p>Hãy xem đoạn code dưới đây để thấy sự linh hoạt của chúng:</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        long a = 100000L;</code><br><code>        long b = -100000L;</code><br><code>        System.out.println("Giá trị của a: " + a);</code><br><code>        System.out.println("Giá trị của b: " + b);</code><br><code>    }</code><br><code>}</code></p>
+<div> </div>
+<h4>Float và Double – Kiểu dữ liệu cho những con số thập phân!</h4>
+<p><img loading="lazy" src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/165459/Originals/so-thap-phan-la-gi-1.png" alt="Số thập phân là gì? Tìm hiểu số thập phân và &quot;bí mật&quot; đằng sau" data-is-external-image="true"></p>
+<p>Nếu bạn đang làm việc với các giá trị có phần thập phân, chẳng hạn như tiền tệ (dù nhớ là không nên dùng float cho số tiền!), bạn sẽ cần đến float (4 byte) và double (8 byte). Chúng giúp bạn lưu trữ các số với độ chính xác cao.</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        float jpy = 22.2f;</code><br><code>        double ct = 676.7;</code><br><code>        System.out.println("Giá trị của jpy: " + jpy);</code><br><code>        System.out.println("Giá trị của ct: " + ct);</code><br><code>    }</code><br><code>}</code></p>
+<div>
+<div dir="ltr"> </div>
+</div>
+<h3>2. Kiểu dữ liệu Non-Primitive – Bắt đầu phiêu lưu cùng đối tượng!</h3>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://github.com/KenDarkmode/myblog1.git/media/posts/2/Screenshot-2024-12-26-145045.png" alt="" width="453" height="385" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-xs.png 640w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-sm.png 768w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-md.png 1024w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-lg.png 1366w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-xl.png 1600w ,https://github.com/KenDarkmode/myblog1.git/media/posts/2/responsive/Screenshot-2024-12-26-145045-2xl.png 1920w"></figure>
+<p>Không chỉ dừng lại ở các kiểu dữ liệu nguyên thủy, Java còn cung cấp kiểu dữ liệu đối tượng, hay còn gọi là non-primitive. Các đối tượng này có thể là một chuỗi ký tự, một mảng, hay bất kỳ đối tượng nào bạn định nghĩa trong chương trình.</p>
+<h4>String – Chuỗi kỳ diệu</h4>
+<p><img loading="lazy" src="https://previews.123rf.com/images/higyou/higyou1710/higyou171000030/87752174-space-fantasy-magic-energy-swirls-abstract-dark-background-horizontal.jpg" alt="Space Fantasy Magic Energy Swirls Abstract, Dark Background, Horizontal  Stock Photo, Picture and Royalty Free Image. Image 87752174." data-is-external-image="true"></p>
+<p>String là kiểu dữ liệu không thể thiếu trong bất kỳ dự án Java nào. Nó là nơi chứa đựng tất cả các chuỗi ký tự. Bạn có thể làm mọi thứ với String, từ việc ghép nối chuỗi đến việc tìm kiếm từ ngữ yêu thích. Và trên hết, chúng thật dễ dàng sử dụng:</p>
+<p> </p>
+<div>
+<div dir="ltr"><code>String message = "Hello, Java!";
+</code></div>
+<div dir="ltr"><code>System.out.println(message.length()); </code></div>
+<div dir="ltr"><code> // Kết quả: 12</code></div>
+</div>
+<h4>Array – Mảng, chiếc hộp thần kỳ chứa nhiều giá trị!</h4>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.etsystatic.com/41975932/r/il/058da1/6040096352/il_570xN.6040096352_dm4x.jpg" alt="Buy Magic Gift Box Clipart Mystical Magic Box Clipart Bundle 10  High-quality Designs Fantasy Art Printables Commercial Use Online in India  - Etsy" width="570" height="570" data-is-external-image="true"></figure>
+<p>Bạn có thể tưởng tượng mảng giống như một chiếc kệ sách với nhiều cuốn sách (giá trị) được sắp xếp theo thứ tự. Chúng cho phép bạn lưu trữ và truy cập vào bất kỳ phần tử nào trong số các giá trị đó theo chỉ số.</p>
+<p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        int[] numbers = {1, 2, 3, 4, 5};</code><br><code>        for (int i = 0; i &lt; numbers.length; i++) {</code><br><code>            System.out.println("Phần tử tại chỉ mục " + i + ": " + numbers[i]);</code><br><code>        }</code><br><code>    }</code><br><code>}</code></p>
+<div>
+<div dir="ltr"> </div>
+</div>
+<p>Java cung cấp cho chúng ta rất nhiều kiểu dữ liệu để lựa chọn, giúp chương trình của bạn có thể linh hoạt lưu trữ đủ loại thông tin. Từ các giá trị nguyên thủy như boolean, int đến những đối tượng như String và Array, bạn đều có thể dễ dàng sử dụng chúng để giải quyết mọi bài toán lập trình. Chúc bạn khám phá và chinh phục Java một cách thật thú vị! </p>
+<p>Hy vọng bạn sẽ tìm thấy bài viết này dễ hiểu và vui vẻ khi khám phá các kiểu dữ liệu trong Java! </p>
+<p> </p>
+<h3 id="_8-double-9"></h3>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Bài 1: Giới thiệu về Java</title>
+        <author>
+            <name>Nguyen Anh Kiet</name>
+        </author>
+        <link href="https://github.com/KenDarkmode/myblog1.git/bai-1-gioi-thieu-ve-java.html"/>
+        <id>https://github.com/KenDarkmode/myblog1.git/bai-1-gioi-thieu-ve-java.html</id>
+
+        <updated>2024-12-26T10:52:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Java – Ngôn Ngữ Lập Trình “Cực Cool” Cho Những Ai Đam Mê Công Nghệ! Chào các bạn, hôm nay chúng ta sẽ cùng tìm hiểu một ngôn ngữ lập trình vô cùng đặc biệt: Java! Bạn đã bao giờ nghe đến cái tên này&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Java – Ngôn Ngữ Lập Trình “Cực Cool” Cho Những Ai Đam Mê Công Nghệ! </h1>
+<p><img loading="lazy" src="https://files.oaiusercontent.com/file-XoqhmoJbupAd3QAkaNkvfS?se=2024-12-26T07%3A05%3A17Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscc=max-age%3D604800%2C%20immutable%2C%20private&amp;rscd=attachment%3B%20filename%3D3f17b02c-7736-49ac-a1c0-c04a4ee0f7f3.webp&amp;sig=P%2BOBQlVWgo/TrJdXXVgsMMpwpiBqvo%2Bq3a4gycYLQ8M%3D" alt="A creative and vibrant image representing the concept of Java programming. The image should feature a mix of elements such as a laptop, a code editor displaying Java code, the Java logo (a steaming coffee cup), and colorful coding symbols or icons to represent technology, programming, and innovation. The image should be modern, exciting, and tech-inspired, appealing to young tech enthusiasts and programmers." data-is-external-image="true"></p>
+<p>Chào các bạn, hôm nay chúng ta sẽ cùng tìm hiểu một ngôn ngữ lập trình vô cùng đặc biệt: Java! Bạn đã bao giờ nghe đến cái tên này chưa? Nếu chưa, thì đã đến lúc bạn khám phá một “siêu anh hùng” trong thế giới lập trình rồi đó! 😄</p>
+<p>Java ra đời vào năm 1995, nhưng không phải vì thế mà nó “lỗi thời”. Ngược lại, Java ngày càng trở thành lựa chọn của vô số lập trình viên tài năng. Từ web, game, đến các ứng dụng di động, Java đều thể hiện “sức mạnh” của mình! 🎮📱</p>
+<h3>Tại Sao Java Lại “Cực Phẩm” Như Vậy?</h3>
+<p><img loading="lazy" src="https://www.shutterstock.com/image-vector/business-man-lots-question-bubbles-600nw-593855477.jpg" alt="9,288 Confused Person Sketch Royalty-Free Photos and Stock Images |  Shutterstock" data-is-external-image="true"></p>
+<h4> </h4>
+<h4>1. Đa Nền Tảng – Viết Một Lần, Chạy Mọi Nơi!</h4>
+<p>Điều đặc biệt nhất khi nhắc đến Java chính là khả năng đa nền tảng (cross-platform). Thử nghĩ mà xem, bạn viết code một lần, và nó có thể chạy trên bất kỳ hệ điều hành nào từ Windows, Mac đến Linux mà không cần chỉnh sửa gì cả. Nhờ vào Java Virtual Machine (JVM) thần thánh, ứng dụng của bạn chỉ cần “một lần làm là xong”. Thật tuyệt phải không? </p>
+<p> </p>
+<h4>2. Quản Lý Bộ Nhớ Tự Động – Bạn Thảnh Thơi Code, Java Lo Phần Còn Lại!</h4>
+<p> </p>
+<p>Java có tính năng quản lý bộ nhớ tự động – điều này có nghĩa là nó sẽ tự động “dọn dẹp” bộ nhớ không cần thiết giúp bạn. Bạn có thể tập trung sáng tạo ra những ứng dụng hay ho mà chẳng cần lo lắng về việc mất bộ nhớ nữa. Chính xác là như có một trợ lý mãi bên cạnh bạn vậy! 🎉</p>
+<p> </p>
+<h4>3. Bảo Mật Cao – Đừng Lo Về Những Kẻ “Xâm Nhập”!</h4>
+<p> </p>
+<p>Chắc chắn rằng bạn không muốn phần mềm của mình bị lỗ hổng bảo mật, đúng không? Đừng lo, Java cực kỳ chú trọng đến bảo mật. Nhờ các tính năng kiểm tra lỗi chặt chẽ, bạn có thể yên tâm rằng các ứng dụng của mình luôn an toàn, tránh được các mối nguy hại từ mã độc. </p>
+<p> </p>
+<h4>4. Đa Luồng – Chạy Nhanh Như Chớp!</h4>
+<p> </p>
+<p>Công việc của bạn có bao giờ yêu cầu xử lý cùng lúc nhiều tác vụ? Với Java, đó không phải là vấn đề! Hỗ trợ đa luồng giúp bạn thực hiện nhiều tác vụ cùng lúc mà không làm giảm hiệu suất. Càng làm việc nhanh, bạn càng tiến gần hơn đến những dự án “khủng”! </p>
+<p> </p>
+<h3>Cùng Nhận Xét Về Ưu Điểm và Nhược Điểm Của Java</h3>
+<p><img loading="lazy" src="https://hrchannels.com/uptalent/attachments/images/20211115/155445516_viet-uu-diem-nhuoc-diem-vao-cv-3.png" alt="Viết ưu - nhược điểm của bản thân trong CV sao cho khéo" data-is-external-image="true"></p>
+<p> </p>
+<h4>Ưu điểm:</h4>
+<p> </p>
+<p>Độ tin cậy cao: Java có một cộng đồng lớn và nhiều công cụ hỗ trợ, vì thế khả năng phát triển ứng dụng thành công là rất cao.</p>
+<p>Tính đa nền tảng: Viết một lần, chạy mọi nơi! Ứng dụng của bạn sẽ không phải lo lắng về hệ điều hành nào.</p>
+<p>Cộng đồng và tài nguyên vô cùng phong phú: Bạn sẽ không phải lạc lõng, vì luôn có rất nhiều tài liệu và người sẵn sàng giúp đỡ khi bạn gặp khó khăn.</p>
+<p> </p>
+<h4>Nhược điểm:</h4>
+<p> </p>
+<p>Tốc độ chậm hơn các ngôn ngữ khác: So với C++ hay Rust, Java có thể chạy hơi chậm một chút. Nhưng đừng lo, với sự tối ưu đúng cách, bạn hoàn toàn có thể khắc phục điều này.</p>
+<p>Sử dụng bộ nhớ nhiều hơn: Vì được quản lý bộ nhớ tự động, Java sẽ yêu cầu một ít bộ nhớ hơn so với một số ngôn ngữ khác, nhưng điều này lại giúp giảm bớt công việc cho lập trình viên.</p>
+<p> </p>
+<h3>Java – Người Bạn Đồng Hành Đáng Tin Cậy!</h3>
+<p><img loading="lazy" src="https://pbs.twimg.com/media/GSYiK4OWoAA5QZJ.jpg" alt="Darth Starrr (@DarthStarfire) / X" data-is-external-image="true"></p>
+<p> </p>
+<p>Kết luận, Java thực sự là một ngôn ngữ mạnh mẽ, lý tưởng cho những ai muốn xây dựng ứng dụng lớn và phức tạp. Những tính năng độc đáo như đa nền tảng, quản lý bộ nhớ tự động, và bảo mật cao sẽ giúp bạn phát triển phần mềm một cách nhanh chóng và dễ dàng hơn. Mặc dù có một số nhược điểm nhỏ như tốc độ hay lượng bộ nhớ sử dụng, nhưng với các công cụ và cộng đồng hỗ trợ mạnh mẽ, Java vẫn là lựa chọn tuyệt vời cho bất kỳ lập trình viên nào.</p>
+<p> </p>
+<p>Vậy, nếu bạn đang tìm kiếm một ngôn ngữ lập trình “vừa mạnh mẽ, vừa dễ sử dụng” để bắt đầu với thế giới công nghệ, Java chính là sự lựa chọn lý tưởng! </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
