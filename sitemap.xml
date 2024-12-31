@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https:// kendarkmode.github.io/myblog1/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kendarkmode.github.io/myblog1/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/</loc>
+<loc>https://kendarkmode.github.io/myblog1/</loc>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-1-gioi-thieu-ve-java.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-1-gioi-thieu-ve-java.html</loc>
 <lastmod>2024-12-30T15:37:11+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/1/idea-mew.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/1/idea-mew.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-2-cac-kieu-du-lieu-trong-java.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-2-cac-kieu-du-lieu-trong-java.html</loc>
 <lastmod>2024-12-30T15:38:56+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-144915.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-144915.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-145045.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-145045.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-3-cau-truc-dieu-kien-va-vong-lap.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-3-cau-truc-dieu-kien-va-vong-lap.html</loc>
 <lastmod>2024-12-30T20:18:36+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/3/idea-mew-2.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/3/idea-mew-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/3/plan.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/3/plan.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-4-lop-va-doi-tuong-trong-java.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-4-lop-va-doi-tuong-trong-java.html</loc>
 <lastmod>2024-12-29T09:49:05+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/4/idea-mew.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/4/idea-mew.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-5-tinh-ke-thua-trong-java.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-5-tinh-ke-thua-trong-java.html</loc>
 <lastmod>2024-12-30T15:40:27+07:00</lastmod>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-6-gioi-thieu-ve-javascript.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-6-gioi-thieu-ve-javascript.html</loc>
 <lastmod>2024-12-30T15:40:19+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/6/idea-mew.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/6/idea-mew.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-7-cac-kieu-du-lieu-va-cau-lenh-dieu-kien-trong-javascript.html</loc>
 <lastmod>2024-12-30T15:40:45+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/11/idea-mew-3.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/11/idea-mew-5.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-5.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/11/Screenshot-2024-12-29-112739-2.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/11/Screenshot-2024-12-29-112739-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-8-dom-manipulation-trong-javascript.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-8-dom-manipulation-trong-javascript.html</loc>
 <lastmod>2024-12-31T07:37:03+07:00</lastmod>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/bai-9-su-dung-su-kien-event-trong-javascript.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/bai-9-su-dung-su-kien-event-trong-javascript.html</loc>
 <lastmod>2024-12-31T07:36:46+07:00</lastmod>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/home-2.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/home-2.html</loc>
 <lastmod>2024-12-31T07:38:24+07:00</lastmod>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/page/2/</loc>
+<loc>https://kendarkmode.github.io/myblog1/page/2/</loc>
 </url>
 <url>
-<loc>https:// kendarkmode.github.io/myblog1/toi-da-hoc-java-nhu-the-nao.html</loc>
+<loc>https://kendarkmode.github.io/myblog1/toi-da-hoc-java-nhu-the-nao.html</loc>
 <lastmod>2024-12-30T15:39:38+07:00</lastmod>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https:// kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739-2.png</image:loc>
+<image:loc>https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

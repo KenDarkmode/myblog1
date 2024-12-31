@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https:// kendarkmode.github.io/myblog1/sitemap.xml
+Sitemap: https://kendarkmode.github.io/myblog1/sitemap.xml
