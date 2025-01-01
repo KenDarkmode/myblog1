@@ -3,7 +3,7 @@
     <title>JavaScript</title>
     <link href="https://kendarkmode.github.io/myblog1/feed.xml" rel="self" />
     <link href="https://kendarkmode.github.io/myblog1" />
-    <updated>2024-12-31T22:47:59+07:00</updated>
+    <updated>2025-01-01T21:24:23+07:00</updated>
     <author>
         <name>Nguyen Anh Kiet</name>
     </author>
@@ -412,12 +412,13 @@
         <updated>2024-12-26T12:59:56+07:00</updated>
             <summary>
                 <![CDATA[
-                    Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu&hellip;
+                    Chào mừng bạn đến với phần "Lớp và đối tượng trong Java"&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h3>Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu Chuyện Của Những "Người Bạn" Code</h3>
+                <h3>Chào mừng bạn đến với phần "Lớp và đối tượng trong Java" – nơi bạn sẽ khám phá thế giới kỳ diệu của lập trình hướng đối tượng! 🧙‍♂️ Trong Java, lớp và đối tượng không chỉ là những khái niệm đơn giản mà là nền tảng để xây dựng mọi thứ bạn cần. Lớp là bản thiết kế, còn đối tượng là những "sản phẩm" được tạo ra từ lớp đó. Cùng tìm hiểu cách chúng kết hợp với nhau để biến chương trình của bạn thành một hệ thống hoạt động mượt mà, dễ dàng bảo trì và mở rộng! Hãy bắt đầu hành trình "vẽ bản đồ" cho các lớp và "thả" đối tượng vào cuộc phiêu lưu lập trình của bạn!</h3>
+<h3>Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu Chuyện Của Những "Người Bạn" Code</h3>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/4/idea-mew.png" alt="" width="530" height="405" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xl.png 1024w"></figure>
 <p>Bạn có bao giờ cảm thấy lập trình Java giống như việc tạo dựng một thế giới nhỏ của riêng mình? Chúng ta có những lớp học, những đối tượng với cá tính riêng, và thậm chí cả những công cụ "phép thuật" để xây dựng chúng. Hãy cùng khám phá câu chuyện thú vị này nhé!<br><br></p>
 <h2>Lớp (Class) – "Kiến trúc sư tài ba"</h2>
