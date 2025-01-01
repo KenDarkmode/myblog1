@@ -20,7 +20,7 @@
         <updated>2024-12-29T11:51:58+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chào mừng bạn đến với thế giới huyền diệu của sự kiện (Event) trong JavaScript! Nếu bạn đã thử dùng JavaScript để thay đổi nội dung, thay đổi phong cách trang web, thì hôm nay bạn sẽ làm quen với cách biến các hành động&hellip;
+                    Chào mừng bạn đến với thế giới huyền diệu của sự kiện&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -89,7 +89,7 @@
         <updated>2024-12-29T11:37:54+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chào bạn, người đã sẵn sàng bước vào thế giới "phép thuật" của JavaScript! Nếu bạn đã từng tưởng tượng mình có thể thay đổi bất cứ điều gì trên một trang web, thì hôm nay là ngày tuyệt vời để bắt đầu thực hiện&hellip;
+                    Chào bạn, người đã sẵn sàng bước vào thế giới "phép thuật"&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -146,7 +146,7 @@
         <updated>2024-12-29T11:29:47+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chơi Cùng Dữ Liệu, Làm Chủ Điều Kiện Chào mừng bạn quay lại với thế giới đầy màu sắc của JavaScript! Nếu bạn đã khám phá qua vài bài viết về JS và cảm thấy thú vị, thì hôm nay chúng ta sẽ cùng tiếp&hellip;
+                    Chơi Cùng Dữ Liệu, Làm Chủ Điều Kiện Chào mừng bạn quay&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -184,10 +184,10 @@
 <div class="flex items-center rounded bg-token-sidebar-surface-primary px-2 font-sans text-xs text-token-text-secondary dark:bg-token-main-surface-secondary"> </div>
 <div>
 <h3>2. <strong>Câu Lệnh Điều Kiện trong JavaScript - Những Quyết Định Quan Trọng</strong></h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-3.png" alt="" width="713" height="465" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-3.png" alt="" width="713" height="465" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-3-xl.png 1024w"></figure>
 <p>Bây giờ chúng ta sẽ chuyển sang phần "kịch tính" hơn: <strong>câu lệnh điều kiện</strong>. Câu lệnh điều kiện trong JavaScript giúp chúng ta đưa ra các quyết định, kiểu như khi bạn đứng trước lựa chọn "dễ hay khó" và phải ra quyết định. JavaScript có một vài cách để làm điều này, và dưới đây là những chiến binh nổi bật trong bộ sưu tập của chúng ta:</p>
 <h4><strong>A. Câu lệnh <code>if</code> - Quyết Định Đơn Giản</strong></h4>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-5.png" alt="" width="442" height="336" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/idea-mew-5.png" alt="" width="442" height="336" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/idea-mew-5-xl.png 1024w"></figure>
 <p>Câu lệnh <code>if</code> là người đầu tiên chúng ta gặp trong các tình huống lựa chọn. Nó giúp bạn kiểm tra một điều kiện và nếu điều kiện đó là đúng (<code>true</code>), bạn sẽ thực hiện một hành động nào đó.</p>
 <p>Ví dụ:</p>
 <p class="msg msg--highlight "><code>let isHungry = true;<br>if (isHungry) {<br>  console.log("Đi ăn thôi!");<br>}</code></p>
@@ -203,7 +203,7 @@
 <p class="msg msg--highlight "><code>let weather = "rainy";<br>if (weather === "sunny") {<br>  console.log("Mặc áo thun!");<br>} else if (weather === "rainy") {<br>  console.log("Mang ô nhé!");<br>} else {<br>  console.log("Mặc gì cũng được!");<br>}</code></p>
 <p class="msg msg--highlight ">Dù trời nắng hay mưa, bạn luôn có một lựa chọn thời trang hợp lý.</p>
 <h4><strong>D. Câu lệnh <code>switch</code> - Khi Có Quá Nhiều Lựa Chọn</strong></h4>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/Screenshot-2024-12-29-112739-2.png" alt="" width="1022" height="697" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/11/Screenshot-2024-12-29-112739-2.png" alt="" width="1022" height="697" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/11/responsive/Screenshot-2024-12-29-112739-2-xl.png 1024w"></figure>
 <p>Câu lệnh <code>switch</code> là "người hùng" khi bạn có quá nhiều điều kiện cần xử lý và muốn làm cho mã dễ đọc hơn. Thay vì lặp đi lặp lại <code>else if</code>, bạn chỉ cần chọn một "case" tương ứng với điều kiện.</p>
 <p class="msg msg--highlight "><code>let day = "Monday";<br>switch (day) {<br>  case "Monday":<br>    console.log("Ngày đầu tuần! Cố gắng nào!");<br>    break;<br>  case "Friday":<br>    console.log("Ngày cuối tuần! Hãy vui vẻ!");<br>    break;<br>  default:<br>    console.log("Ngày này không đặc biệt lắm.");<br>}</code></p>
 <p class="msg msg--highlight ">Tùy vào giá trị của biến <code>day</code>, bạn sẽ nhận được thông điệp phù hợp. Điều tuyệt vời ở đây là bạn có thể thêm nhiều "case" để xử lý các tình huống khác nhau.</p>
@@ -239,7 +239,7 @@
         <updated>2024-12-29T09:48:50+07:00</updated>
             <summary>
                 <![CDATA[
-                    Tính kế thừa trong Java: Dựng "extends" và chuyện "Con nhà người ta" Khi nhắc đến kế thừa trong Java, đa phần chúng ta nghĩ ngay đến từ khóa extends. Từ khóa này có thể trông đơn giản, nhưng thực ra, nó giống như "hôn&hellip;
+                    Tính kế thừa trong Java: Dựng "extends" và chuyện "Con nhà người&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -294,13 +294,13 @@
         <updated>2024-12-28T21:35:55+07:00</updated>
             <summary>
                 <![CDATA[
-                    JavaScript – Câu Chuyện Kỳ Diệu Đằng Sau Màn Hình Website! Nếu HTML là "bộ xương" của một trang web, CSS là "trang phục" thì JavaScript chính là "bộ não" – nơi mọi phép màu bắt đầu diễn ra! JavaScript (JS) mang lại cho trang&hellip;
+                    JavaScript – Câu Chuyện Kỳ Diệu Đằng Sau Màn Hình Website! Nếu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3>JavaScript – Câu Chuyện Kỳ Diệu Đằng Sau Màn Hình Website!</h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/6/idea-mew.png" alt="" width="547" height="547" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/6/idea-mew.png" alt="" width="547" height="547" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/6/responsive/idea-mew-xl.png 1024w"></figure>
 <p>Nếu HTML là "bộ xương" của một trang web, CSS là "trang phục" thì JavaScript chính là "bộ não" – nơi mọi phép màu bắt đầu diễn ra! JavaScript (JS) mang lại cho trang web của chúng ta sức sống, khiến mọi thứ trở nên thú vị hơn, từ hiệu ứng chuyển động, cập nhật thời gian thực, đến những trò chơi hoặc ứng dụng cực đỉnh.</p>
 <h2><strong>JavaScript là gì?</strong></h2>
 <p><img loading="lazy" src="https://codersguild.net/media/k2/items/cache/620466077c427f141effa294382f5fba_L.jpg" alt="What is JavaScript? A Comprehensive Introduction" data-is-external-image="true"></p>
@@ -384,7 +384,7 @@
         <updated>2024-12-26T13:42:13+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chia Sẻ Quá Trình Học Java Của Mình Học Java là một hành trình đầy thử thách nhưng cũng vô cùng thú vị. Mình bắt đầu học Java từ những kiến thức cơ bản nhất, như cấu trúc dữ liệu, cú pháp ngôn ngữ, và&hellip;
+                    Chia Sẻ Quá Trình Học Java Của Mình Học Java là một&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -396,8 +396,8 @@
 <p>Trong quá trình học, mình cũng tham gia vào các nhóm học tập, chia sẻ kinh nghiệm và giải đáp thắc mắc cùng các bạn. Đây là một cách tuyệt vời để cải thiện kỹ năng của mình và học hỏi những kỹ thuật mới từ những người khác. Nếu bạn cũng đang trên hành trình học Java, mình tin rằng quá trình học sẽ vừa thử thách vừa thú vị và đem lại nhiều điều bổ ích cho bạn.</p>
 <p>Hãy xem qua một số thành tựu mình đã đạt được nhá!</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739.png" alt="" width="630" height="451" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2xl.png 1920w"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739-2.png" alt="" width="627" height="416" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739.png" alt="" width="630" height="451" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-xl.png 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/5/Screenshot-2024-12-29-112739-2.png" alt="" width="627" height="416" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/5/responsive/Screenshot-2024-12-29-112739-2-xl.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -412,13 +412,13 @@
         <updated>2024-12-26T12:59:56+07:00</updated>
             <summary>
                 <![CDATA[
-                    Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu Chuyện Của Những "Người Bạn" Code Bạn có bao giờ cảm thấy lập trình Java giống như việc tạo dựng một thế giới nhỏ của riêng mình? Chúng ta có những lớp học,&hellip;
+                    Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3>Khám phá Thế Giới Lớp và Đối Tượng Trong Java – Câu Chuyện Của Những "Người Bạn" Code</h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/4/idea-mew.png" alt="" width="530" height="405" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/4/idea-mew.png" alt="" width="530" height="405" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/4/responsive/idea-mew-xl.png 1024w"></figure>
 <p>Bạn có bao giờ cảm thấy lập trình Java giống như việc tạo dựng một thế giới nhỏ của riêng mình? Chúng ta có những lớp học, những đối tượng với cá tính riêng, và thậm chí cả những công cụ "phép thuật" để xây dựng chúng. Hãy cùng khám phá câu chuyện thú vị này nhé!<br><br></p>
 <h2>Lớp (Class) – "Kiến trúc sư tài ba"</h2>
 <p><img loading="lazy" src="https://customcartoongifts.com/wp-content/uploads/2020/10/designer-cartoon-1.png" alt="Design Architect Cartoon | Funny Gift for Design Architect" data-is-external-image="true"></p>
@@ -463,7 +463,7 @@
         <updated>2024-12-26T10:54:43+07:00</updated>
             <summary>
                 <![CDATA[
-                    Phần 1: Cấu trúc điều kiện – Đưa ra những lựa chọn Bạn đã bao giờ đứng trước một loạt lựa chọn và không biết chọn đường nào chưa? Java cũng thế! Nhưng nhờ có các câu lệnh điều kiện, Java biết cách đưa ra&hellip;
+                    Phần 1: Cấu trúc điều kiện – Đưa ra những lựa chọn&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -472,13 +472,13 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://static.vecteezy.com/system/resources/previews/028/336/476/non_2x/trendy-choose-option-vector.jpg" alt="Trendy Choose Option 28336476 Vector Art at Vecteezy" width="541" height="541" data-is-external-image="true"></figure>
 <p>Bạn đã bao giờ đứng trước một loạt lựa chọn và không biết chọn đường nào chưa? Java cũng thế! Nhưng nhờ có các <strong>câu lệnh điều kiện</strong>, Java biết cách đưa ra quyết định nhanh như chớp!</p>
 <h4><strong>If - Else</strong>: Câu chuyện của điều kiện</h4>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/3/idea-mew-2.png" alt="" width="558" height="252" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/3/idea-mew-2.png" alt="" width="558" height="252" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/idea-mew-2-xl.png 1024w"></figure>
 <p>Nếu bạn bảo Java kiểm tra một điều kiện, nó sẽ nghe lời bạn. Nếu đúng, nó thực hiện một hành động, còn nếu không, nó đi hướng khác.</p>
 <p>Code ví dụ cho bạn:</p>
 <p class="msg msg--highlight "><code>public class Main {<br>    public static void main(String[] args) {<br>        int weather = 25; // Nhiệt độ hiện tại<br><br>        if (weather &gt; 30) {<br>            System.out.println("Hôm nay nóng lắm! Đi bơi thôi!");<br>        } else {<br>            System.out.println("Thời tiết mát mẻ, ra ngoài picnic đi!");<br>        }<br>    }<br>}</code></p>
 <p class="msg msg--highlight ">Khi chạy, Java như một người bạn tri kỷ biết khuyên bạn nên đi đâu mỗi ngày! </p>
 <h4><strong>Switch-Case</strong>: Khi mọi thứ đã được định trước</h4>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/3/plan.png" alt="" width="1455" height="632" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/3/plan.png" alt="" width="1455" height="632" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/3/responsive/plan-xl.png 1024w"></figure>
 <p>Bạn có một danh sách dài các lựa chọn? <strong>Switch-Case</strong> là cỗ máy thời gian đưa chương trình của bạn đến <strong>đúng nơi nó cần đến</strong>.</p>
 <p>Đây là code cho bạn hình dung:</p>
 <p class="msg msg--highlight "><code>public class Main {<br>    public static void main(String[] args) {<br>        String day = "Monday";<br><br>        switch (day) {<br>            case "Monday":<br>                System.out.println("Bắt đầu tuần mới với cafe!");<br>                break;<br>            case "Friday":<br>                System.out.println("Thứ Sáu rồi, hết tuần thôi nào!");<br>                break;<br>            default:<br>                System.out.println("Một ngày bình thường thôi mà!");<br>        }<br>    }<br>}<br></code></p>
@@ -523,7 +523,7 @@
         <updated>2024-12-26T10:53:34+07:00</updated>
             <summary>
                 <![CDATA[
-                    Chắc hẳn bạn cũng biết, khi lập trình bằng Java, một trong những yếu tố quan trọng là hiểu rõ về các kiểu dữ liệu. Hãy tưởng tượng các kiểu dữ liệu trong Java như một loạt các hộp với các kích thước và hình&hellip;
+                    Chắc hẳn bạn cũng biết, khi lập trình bằng Java, một trong&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -600,7 +600,7 @@
 <p><code>char</code> là kiểu dành cho bạn, lưu trữ một ký tự đơn giản như 'A' hay ký tự đặc biệt nào đó, với <strong>2 byte</strong> bộ nhớ.</p>
 <p class="msg msg--highlight "><code>public class Main {</code><br><code>    public static void main(String[] args) {</code><br><code>        char name = 'A';</code><br><code>        System.out.println("Ký tự: " + name);</code><br><code>    }</code><br><code>}</code><code></code></p>
 <h4>Byte, Short, Int và Long – Lưu trữ các con số, càng lớn càng mạnh mẽ!</h4>
-<figure class="post__image"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-144915.png" alt="" width="742" height="612" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-144915.png" alt="" width="742" height="612" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-144915-xl.png 1024w"></figure>
 <ol>
 <li>Byte (1 byte) cho những con số nho nhỏ từ -128 đến 127. Chẳng hạn bạn có thể dùng khi chỉ cần lưu trữ số nhỏ.</li>
 <li>Short (2 byte) thích hợp hơn cho những số nằm trong dải từ -32,768 đến 32,767.</li>
@@ -618,7 +618,7 @@
 <div dir="ltr"> </div>
 </div>
 <h3>2. Kiểu dữ liệu Non-Primitive – Bắt đầu phiêu lưu cùng đối tượng!</h3>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-145045.png" alt="" width="453" height="385" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/2/Screenshot-2024-12-26-145045.png" alt="" width="453" height="385" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/2/responsive/Screenshot-2024-12-26-145045-xl.png 1024w"></figure>
 <p>Không chỉ dừng lại ở các kiểu dữ liệu nguyên thủy, Java còn cung cấp kiểu dữ liệu đối tượng, hay còn gọi là non-primitive. Các đối tượng này có thể là một chuỗi ký tự, một mảng, hay bất kỳ đối tượng nào bạn định nghĩa trong chương trình.</p>
 <h4>String – Chuỗi kỳ diệu</h4>
 <p><img loading="lazy" src="https://previews.123rf.com/images/higyou/higyou1710/higyou171000030/87752174-space-fantasy-magic-energy-swirls-abstract-dark-background-horizontal.jpg" alt="Space Fantasy Magic Energy Swirls Abstract, Dark Background, Horizontal  Stock Photo, Picture and Royalty Free Image. Image 87752174." data-is-external-image="true"></p>
@@ -656,7 +656,7 @@
         <updated>2024-12-26T10:52:29+07:00</updated>
             <summary>
                 <![CDATA[
-                    Java – Ngôn Ngữ Lập Trình “Cực Cool” Cho Những Ai Đam Mê Công Nghệ! Chào các bạn, hôm nay chúng ta sẽ cùng tìm hiểu một ngôn ngữ lập trình vô cùng đặc biệt: Java! Bạn đã bao giờ nghe đến cái tên này&hellip;
+                    Java – Ngôn Ngữ Lập Trình “Cực Cool” Cho Những Ai Đam&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -669,7 +669,7 @@
 <p><img loading="lazy" src="https://www.shutterstock.com/image-vector/business-man-lots-question-bubbles-600nw-593855477.jpg" alt="9,288 Confused Person Sketch Royalty-Free Photos and Stock Images |  Shutterstock" data-is-external-image="true"></p>
 <h4> </h4>
 <h4>1. Đa Nền Tảng – Viết Một Lần, Chạy Mọi Nơi!</h4>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/1/idea-mew.png" alt="" width="527" height="316" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-xs.png 640w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-sm.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-md.png 1024w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-lg.png 1366w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-xl.png 1600w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-2xl.png 1920w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://kendarkmode.github.io/myblog1/media/posts/1/idea-mew.png" alt="" width="527" height="316" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-xs.png 320w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-sm.png 480w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-md.png 768w ,https://kendarkmode.github.io/myblog1/media/posts/1/responsive/idea-mew-xl.png 1024w"></figure>
 <p>Điều đặc biệt nhất khi nhắc đến Java chính là khả năng đa nền tảng (cross-platform). Thử nghĩ mà xem, bạn viết code một lần, và nó có thể chạy trên bất kỳ hệ điều hành nào từ Windows, Mac đến Linux mà không cần chỉnh sửa gì cả. Nhờ vào Java Virtual Machine (JVM) thần thánh, ứng dụng của bạn chỉ cần “một lần làm là xong”. Thật tuyệt phải không? </p>
 <p> </p>
 <h4>2. Quản Lý Bộ Nhớ Tự Động – Bạn Thảnh Thơi Code, Java Lo Phần Còn Lại!</h4>
